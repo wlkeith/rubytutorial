@@ -1,2 +1,2 @@
 # rubytutorial
-Notes &amp; examples from Ruby on Rails Udemy course
+Notes &amp; examples from Ruby on Rails Udemy course: https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/learn/lecture/3862432#overview 
