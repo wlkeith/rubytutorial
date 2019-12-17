@@ -64,9 +64,9 @@ puts new_icecream_flavor
 # notice that when you run this, the new flavor is still mint chocolate
 
 
-# escaping
-# you can use the backslash character to ignore characters in string output:
+# escaping:
+# you can use the backslash character to ignore characters in string output
+# this will output the actual interpolation syntax when it runs
 puts "the new ice cream flavor is \#{new_icecream_flavor}"
-
 
 
